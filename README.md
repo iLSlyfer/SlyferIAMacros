@@ -24,4 +24,5 @@ Also, with the keys
 
 you can position the program in front of the screen for quick access.
 
-![image](https://github.com/user-attachments/assets/6d0dad2b-7399-43d7-9ab3-2382256edc1b)
+![image](https://github.com/user-attachments/assets/2f5bad24-8ea3-481d-8695-fe9cc3baa95f)
+
